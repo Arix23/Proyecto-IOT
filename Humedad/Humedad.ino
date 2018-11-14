@@ -1,4 +1,4 @@
-int digitalPin = 3; // sensor Humedad
+int digitalPin = 16; // sensor Humedad
 int analogPin= 0; //Servo
 const int buzzer = 4; 
 int LED=5; //Pin del Led
