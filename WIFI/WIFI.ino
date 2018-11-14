@@ -10,7 +10,7 @@ char auth[] = "55060e8138934a1b9e519251652b28ce";
 // Set password to "" for open networks.
 char ssid[] = "Android AP";
 char pass[] = "quimica1234";
-int digitalPin = 3; // sensor Humedad
+int digitalPin = 16; // sensor Humedad
 int analogPin= 0; //Servo
 const int buzzer = 4; 
 int LED=5; //Pin del Led
